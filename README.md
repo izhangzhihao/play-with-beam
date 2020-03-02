@@ -1,8 +1,4 @@
-# gradle-scala-template
-
-A scala template project build by gradle using kotlin script
-
-More usage: https://docs.gradle.org/current/userguide/scala_plugin.html
+# Play with scio
 
 ## Usage
 

@@ -1,1 +1,1 @@
-rootProject.name = "gradle-scala-template"
+rootProject.name = "play-with-scio"
