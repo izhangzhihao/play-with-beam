@@ -1,4 +1,4 @@
-# Play with Beam with Flink and Scala 2.12
+# Beam with Flink and Scala 2.12
 
 ## Usage
 
