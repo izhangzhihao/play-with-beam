@@ -18,4 +18,6 @@ gradle execute -DmainClass=com.github.izhangzhihao.WordCount \
 --output=gs://play-with-beam/output"
 ```
 
+more command line usage: https://beam.apache.org/documentation/runners/dataflow/ & https://beam.apache.org/documentation/runners/flink/
+
 code format: `gradle scalafmt`, more usage: https://github.com/alenkacz/gradle-scalafmt
