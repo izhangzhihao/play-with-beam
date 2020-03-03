@@ -12,7 +12,7 @@ gradle execute -DmainClass=com.github.izhangzhihao.WordCount \
 ```sh
 gradle execute -DmainClass=com.github.izhangzhihao.WordCount \
 -Dexec.args="--runner=DataflowRunner \
---project=??? \
+--project=run-a-pyspar-93-0684d3 \
 --tempLocation=gs://play-with-beam/tmp \
 --inputFile=gs://apache-beam-samples/shakespeare/kinglear.txt \
 --output=gs://play-with-beam/output"
