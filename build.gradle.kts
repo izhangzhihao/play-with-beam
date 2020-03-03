@@ -13,6 +13,7 @@ repositories {
 
 dependencies {
     implementation("org.scala-lang:scala-library:2.12.10")
+    implementation("org.apache.beam:beam-runners-google-cloud-dataflow-java:2.19.0")
     implementation("org.apache.beam:beam-sdks-java-core:2.19.0")
     implementation("org.apache.beam:beam-runners-flink-1.9:2.19.0") {
         // taken from https://issues.apache.org/jira/browse/BEAM-7544?focusedCommentId=16863149&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-16863149
